@@ -1,2 +1,16 @@
-# Bulls-and-Cows
-This was a 'New York TImes Wordle' inspired University project for 2nd year in my Advanced progamming course at the university of Strathclyde. Not only is there a word version with an editable wordlist, there is also a number version of the game.
+# CS207 Project
+#WOW
+
+Changes made of 03/03/25: 
+
+***IMPLEMENTATION 1 IS FINISHED***
+
+Numberscode implemenatation fully works.
+
+Letterscode implmentation fully works. 
+
+All guesses show Bulls and Cows successfully
+
+**There is also no implemenataion of any user account saving, it just creates your account for each time it runs but it is a start.**
+
+**Tests are almost fully complete**
