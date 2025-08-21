@@ -1,5 +1,4 @@
 # CS207 Project
-#WOW
 
 Changes made of 03/03/25: 
 
